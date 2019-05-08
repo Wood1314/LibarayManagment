@@ -1,2 +1,0 @@
-# LibarayManagment
-A C++ homework
